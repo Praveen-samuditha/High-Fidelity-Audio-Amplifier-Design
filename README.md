@@ -38,8 +38,6 @@ The project focuses on a **Class AB power amplifier** that aims to deliver optim
 * **Negative Feedback Implementation:** Incorporated to reduce distortion and improve linearity across the full frequency range.
 * **Robust Component Selection:** Utilizes high-performance audio-grade components like the NE5532 op-amp and specific power transistors.
 
-<img src="" alt="Team Pixie Bots" width="600"/>
-
 ---
 
 ### Implementation and Validation
