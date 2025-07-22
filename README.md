@@ -96,9 +96,6 @@ This comparison helps validate the simulation model and identify areas for poten
 
 To analyze the distortion behavior of our tone control circuit, we generated two comparative graphs. The first graph, *Gain vs. THD*, illustrates how Total Harmonic Distortion (THD) varies with the gain applied to different frequency bands (bass, mid, treble).
 
-![Gain vs. Total Harmonic Distortion (THD)](gain_vs_thd.png)
-*Figure: Gain vs. Total Harmonic Distortion (THD)*
-
 It shows that higher gain settings generally introduce more distortion, especially in the mid-range frequencies. For example, the THD rises to around 17.9% at 500 Hz under a gain of approximately 10 dB.
 
 ## Crossover Distortion
