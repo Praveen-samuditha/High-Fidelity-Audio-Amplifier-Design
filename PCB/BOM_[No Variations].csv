@@ -1,0 +1,12 @@
+﻿,Name,Description,Designator,Part Number,Price,Qty
+,"47n, 2u2, 4n7, 22n, 1n, 100u, 1m",Aluminum Electrolytic Capacitors (Radial Lead Type) 22uF ±20% 25V,"C1, C2, C3, C4, C5, C6, C7, C8, C9, C10",,,10
+,1N4148,DIODE GEN PURP 100V 200MA DO35,"D1, D2",,,2
+,"Input, Output",CONN HEADER VERT 2POS 2.5MM,"J1, J2",,,2
+,Power Pins,"Male Header, Pitch 2 mm, 1 x 3 Position, Height 6 mm, Tail Length 3.4 mm, -25 to 85 degC, RoHS, Bulk",P1,,,1
+,2SD1047,TRANS NPN 140V 12A TO-3P,Q1,,,1
+,2SB817C,Transistor BJT PNP,Q2,,,1
+,"10K, 3K3, 270, 1K8, 1K2",RES 1.18K OHM 1/4W 1% AXIAL,"R1, R2, R3, R4, R5, R6, R7, R9, R10, R11, R14",,,11
+,470K,TRIMMER 500KOHM 0.25W PC PIN TOP,R8,,,1
+,10,"HVR3700001004FR500 Fixed Resistor, Metal Film, 0.5W, 1000000ohm, 3500V, 1% +/-Tol, 200ppm/Cel, Through Hole Mount","R12, R13",,,2
+,TL072CP,"Dual Low-Noise JFET-Input General-Purpose Operational Amplifier, 7 to 36 V, 0 to 70 degC, 8-pin DIP (P8), Pb-Free (RoHS)",U1,,,1
+,100K,"Square Trimpot(R) Trimming Potentiometer, 100 KOhm, 300 V, -55 to 125 degC, 3-Pin THD, RoHS, Tube","VR1, VR2, VR3",,,3
