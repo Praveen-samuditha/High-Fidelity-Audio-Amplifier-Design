@@ -65,7 +65,8 @@ Crossover distortion, on the other hand, is inherent to push–pull output stage
 ## Harmonic Distortion
 
 Harmonic distortion occurs whenever the amplifier’s active devices (transistors or op‐amps) exhibit nonlinear behavior. In practice, the output voltage $v_{\mathrm{out}}(t)$ can be viewed as a Fourier series expansion:
-$$ v_{\mathrm{out}}(t) \;=\; \sum_{n=1}^{\infty} V_n \,\sin\bigl(n\omega t + \varphi_n\bigr), $$
+<img width="301" height="81" alt="image" src="https://github.com/user-attachments/assets/eafd06c5-cc24-41a1-b4e6-8c7bdb2609de" />
+
 where:
 * $V_1$ is the amplitude of the *fundamental* component at angular frequency $\omega = 2\pi f_{\mathrm{in}}$,
 * $V_n$ (for $n \geq 2$) are the amplitudes of the *nth* harmonic components at $n\omega$, and
