@@ -113,7 +113,7 @@ A qualitative sketch of the transfer curve illustrates how, without proper biasi
 
 ## Conclusion
 
-Our distortion analysis shows that the dominant harmonic distortion terms arise from device nonlinearities in the input and driver stages, quantified by THD via the formula above. Crossover distortion manifests in the push–pull output stage around the zero‐crossing if biasing is insufficient. In our final amplifier layout, we have minimized both effects—employing local feedback loops to reduce harmonics and a VBE‐multiplier bias network to suppress crossover distortion—thus achieving a high‐fidelity output with THD typically below 0.1% under nominal operating conditions.
+Our distortion analysis shows that the dominant harmonic distortion terms arise from device nonlinearities in the input and driver stages, quantified by THD via the formula above. Crossover distortion manifests in the push–pull output stage around the zero‐crossing if biasing is insufficient. In our final amplifier layout, we have minimized both effects employing local feedback loops to reduce harmonics and a VBE‐multiplier bias network to suppress crossover distortion, thus achieving a high‐fidelity output with THD typically below 0.1% under nominal operating conditions.
 
 
 The project successfully delivers a high-performance audio amplifier, achieving high fidelity output with THD typically below 0.1% under nominal operating conditions by minimizing both harmonic and crossover distortions through careful design choices, including local feedback loops and a VBE-multiplier bias network.
