@@ -49,6 +49,7 @@ The amplifier system underwent a comprehensive design and validation process:
 * **Prototyping:** The designs were physically implemented on a breadboard to test their real-world performance.
 * **Testing and Analysis:** Thorough testing evaluated key parameters such as gain, frequency response (20 Hz – 20 kHz), and output power (10W). **Total Harmonic Distortion (THD)** was a critical metric, with the goal of keeping it below 1%. Detailed analysis of harmonic and crossover distortion was performed, demonstrating how the Class AB topology and biasing techniques minimize these effects. Real-time THD measurements were compared against simulated values, validating the design and identifying areas for practical considerations.
 
+<img width="555" height="232" alt="image" src="https://github.com/user-attachments/assets/8504209a-78d7-4677-bdd6-a31e482ef6ad" />
 
 
 The project successfully delivers a high-performance audio amplifier, achieving high fidelity output with THD typically below 0.1% under nominal operating conditions by minimizing both harmonic and crossover distortions through careful design choices, including local feedback loops and a VBE-multiplier bias network.
